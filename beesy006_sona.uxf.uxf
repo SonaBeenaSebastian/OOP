@@ -1,0 +1,246 @@
+<diagram program="umletino" version="15.1"><zoom_level>8</zoom_level><element><id>UMLClass</id><coordinates><x>176</x><y>608</y><w>144</w><h>112</h></coordinates><panel_attributes>/Material/
+-
+/+ strength: float/
+-
+
+
+
+
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>352</x><y>784</y><w>144</w><h>112</h></coordinates><panel_attributes>/Gemstone/
+-
+/+ strength: float/
+/+ magicPower: float/
+-
+
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>240</x><y>712</y><w>24</w><h>88</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>10;10;10;90</additional_attributes></element><element><id>UMLClass</id><coordinates><x>0</x><y>784</y><w>144</w><h>112</h></coordinates><panel_attributes>/Wood/
+-
+/+ strength: float/
+-
+
+
+
+
+
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>176</x><y>784</y><w>144</w><h>112</h></coordinates><panel_attributes>/Metal/
+-
+/+ strength: float/
+/+ purity: float/
+-
+
+
+
+
+
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>64</x><y>744</y><w>376</w><h>56</h></coordinates><panel_attributes>lt=-</panel_attributes><additional_attributes>450;50;450;10;10;10;10;50</additional_attributes></element><element><id>UMLClass</id><coordinates><x>48</x><y>952</y><w>144</w><h>112</h></coordinates><panel_attributes>Maple
+-
++ strength = 5
+-
+
+
+
+
+
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>248</x><y>952</y><w>144</w><h>112</h></coordinates><panel_attributes>Bronze
+-
++ strength = 3
++ purity = 1.3
+-
+
+
+
+
+
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>448</x><y>952</y><w>144</w><h>112</h></coordinates><panel_attributes>Ruby
+-
++ strength = 1
++ magicPower = 1.8
+-
+
+
+
+
+
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>48</x><y>1088</y><w>144</w><h>112</h></coordinates><panel_attributes>Ash
+-
++ strength = 3
+-
+
+
+
+
+
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>48</x><y>1224</y><w>144</w><h>112</h></coordinates><panel_attributes>Oak
+-
++ strength = 4
+-
+
+
+
+
+
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>248</x><y>1088</y><w>144</w><h>112</h></coordinates><panel_attributes>Iron
+-
++ strength = 6
++ purity = 1.1
+-
+
+
+
+
+
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>248</x><y>1224</y><w>144</w><h>112</h></coordinates><panel_attributes>Steel
+-
++ strength = 10
++ purity = 1.8
+-
+
+
+
+
+
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>448</x><y>1088</y><w>144</w><h>112</h></coordinates><panel_attributes>Sapphire
+-
++ strength = 1.2
++ magicPower = 1.6
+-
+
+
+
+
+
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>448</x><y>1224</y><w>144</w><h>112</h></coordinates><panel_attributes>Emerald
+-
++ strength = 1.6
++ magicPower = 1.1
+-
+
+
+
+
+
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>448</x><y>1360</y><w>144</w><h>112</h></coordinates><panel_attributes>Diamond
+-
++ strength = 2.1
++ magicPower = 2.2
+-
+
+
+
+
+
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>448</x><y>1496</y><w>144</w><h>112</h></coordinates><panel_attributes>Amethyst
+-
++ strength = 1.8
++ magicPower = 3.2
+-
+
+
+
+
+
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>448</x><y>1632</y><w>144</w><h>112</h></coordinates><panel_attributes>Onyx
+-
++ strength = 0.1
++ magicPower = 4.6
+-
+
+
+
+
+
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>416</x><y>888</y><w>24</w><h>816</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>10;10;10;1000</additional_attributes></element><element><id>Relation</id><coordinates><x>416</x><y>1000</y><w>48</w><h>24</h></coordinates><panel_attributes>lt=-</panel_attributes><additional_attributes>10;10;40;10</additional_attributes></element><element><id>Relation</id><coordinates><x>416</x><y>1136</y><w>48</w><h>24</h></coordinates><panel_attributes>lt=-</panel_attributes><additional_attributes>10;10;40;10</additional_attributes></element><element><id>Relation</id><coordinates><x>416</x><y>1272</y><w>48</w><h>24</h></coordinates><panel_attributes>lt=-</panel_attributes><additional_attributes>10;10;40;10</additional_attributes></element><element><id>Relation</id><coordinates><x>416</x><y>1408</y><w>48</w><h>24</h></coordinates><panel_attributes>lt=-</panel_attributes><additional_attributes>10;10;40;10</additional_attributes></element><element><id>Relation</id><coordinates><x>416</x><y>1544</y><w>48</w><h>24</h></coordinates><panel_attributes>lt=-</panel_attributes><additional_attributes>10;10;40;10</additional_attributes></element><element><id>Relation</id><coordinates><x>416</x><y>1680</y><w>48</w><h>24</h></coordinates><panel_attributes>lt=-</panel_attributes><additional_attributes>10;10;40;10</additional_attributes></element><element><id>Relation</id><coordinates><x>216</x><y>888</y><w>24</w><h>408</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>10;10;10;490</additional_attributes></element><element><id>Relation</id><coordinates><x>16</x><y>888</y><w>24</w><h>408</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>10;10;10;490</additional_attributes></element><element><id>Relation</id><coordinates><x>216</x><y>1000</y><w>48</w><h>24</h></coordinates><panel_attributes>lt=-</panel_attributes><additional_attributes>10;10;40;10</additional_attributes></element><element><id>Relation</id><coordinates><x>216</x><y>1136</y><w>48</w><h>24</h></coordinates><panel_attributes>lt=-</panel_attributes><additional_attributes>10;10;40;10</additional_attributes></element><element><id>Relation</id><coordinates><x>216</x><y>1272</y><w>48</w><h>24</h></coordinates><panel_attributes>lt=-</panel_attributes><additional_attributes>10;10;40;10</additional_attributes></element><element><id>Relation</id><coordinates><x>16</x><y>1000</y><w>48</w><h>24</h></coordinates><panel_attributes>lt=-</panel_attributes><additional_attributes>10;10;40;10</additional_attributes></element><element><id>Relation</id><coordinates><x>16</x><y>1136</y><w>48</w><h>24</h></coordinates><panel_attributes>lt=-</panel_attributes><additional_attributes>10;10;40;10</additional_attributes></element><element><id>Relation</id><coordinates><x>16</x><y>1272</y><w>48</w><h>24</h></coordinates><panel_attributes>lt=-</panel_attributes><additional_attributes>10;10;40;10</additional_attributes></element><element><id>UMLClass</id><coordinates><x>32</x><y>48</y><w>240</w><h>200</h></coordinates><panel_attributes>Workshop
+--
+enchanter: Enchanter
+forge: Forge
+weapons:Weapon[]
+enchantments:Enchantments[]
+materials:dict
+
+--
+
+displayWeapons():str
+displayEnchants():str
+displayMaterials():str
+addMaterial(materialName:str, countOfMaterial:int)
+addWeapon(weapon:Weapon)
+addEnchantment(enchantment:Enchantment)
+removeWeapon(weapon:Weapon)
+
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>344</x><y>64</y><w>168</w><h>56</h></coordinates><panel_attributes>Crafter
+--
+craft():
+disassmble():</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>496</x><y>176</y><w>168</w><h>64</h></coordinates><panel_attributes>Forge
+--
+weapon:Weapon
+--
+craft():
+disassemble():
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>480</x><y>360</y><w>168</w><h>88</h></coordinates><panel_attributes>Enchanter
+--
+recipe: dict
+enchantment:Enchantment
+--
+craft():Enchantment
+dissamble():Enchantment
+enchant():
+
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>848</x><y>80</y><w>216</w><h>296</h></coordinates><panel_attributes>Weapon
+--
+-name: str
+-damage: float
+-enchanted:bool
+-enchantment:Enchantment
+-primaryMaterial: Material
+-catalystMaterial: Material
+
+--
+
+getName():str
+getDamage():float
+getEnchanted():bool
+getEnchantment():Enchantment
+getPrimaryMaterial():Material
+getCatalystMaterial():Material
+setName(name:str)
+setDamage(damage:float)
+setPrimaryMaterial(material:Material)
+setCatalystMaterial(material:Material)
+setEnchanted(enchanted:bool)
+setEnchantment(enchantment:Enchantment)
+calculateDamage()
+useEffect():str
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>656</x><y>464</y><w>192</w><h>192</h></coordinates><panel_attributes>Enchantment
+--
+-name:str
+-magicDamage:float
+-effect:str
+-primaryMaterial:Material
+-catalystMaterial:Material
+--
+getName():str
+getMagicDamage():float
+geteffect():str
+getPrimaryMaterial():Material
+getCatalystMaterial():Material
+setMagicDamage(magicDamage:float)
+setEffect(effect:str)
+calculateMagicDamage()
+useEffect():str
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>264</x><y>88</y><w>96</w><h>24</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;&lt;-</panel_attributes><additional_attributes>10;10;100;10</additional_attributes></element><element><id>Relation</id><coordinates><x>400</x><y>112</y><w>96</w><h>272</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>10;10;10;320;100;320</additional_attributes></element><element><id>Relation</id><coordinates><x>400</x><y>208</y><w>112</w><h>24</h></coordinates><panel_attributes>lt=-</panel_attributes><additional_attributes>10;10;120;10</additional_attributes></element><element><id>Relation</id><coordinates><x>656</x><y>216</y><w>208</w><h>32</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;&lt;-
+m1=1
+m2=1</panel_attributes><additional_attributes>10;10;240;10</additional_attributes></element><element><id>Relation</id><coordinates><x>312</x><y>368</y><w>656</w><h>328</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;&lt;&lt;-
+m1=1
+m2=2</panel_attributes><additional_attributes>790;10;790;390;10;380</additional_attributes></element><element><id>Relation</id><coordinates><x>544</x><y>440</y><w>128</w><h>136</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;&lt;-
+m1=1
+m2=1
+</panel_attributes><additional_attributes>10;10;10;140;140;140</additional_attributes></element><element><id>Relation</id><coordinates><x>312</x><y>624</y><w>360</w><h>32</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;&lt;&lt;-
+m1=1
+m2=2</panel_attributes><additional_attributes>430;10;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>136</x><y>0</y><w>872</w><h>96</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;&lt;-
+m2=0.. *
+m1=1</panel_attributes><additional_attributes>10;60;10;10;1050;10;1050;100</additional_attributes></element><element><id>Relation</id><coordinates><x>96</x><y>240</y><w>576</w><h>368</h></coordinates><panel_attributes>lt=-&gt;&gt;&gt;&gt;
+m1=0..*
+m2=1</panel_attributes><additional_attributes>700;430;10;430;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>840</x><y>368</y><w>104</w><h>216</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;&lt;-
+m1=1
+m2=0..1</panel_attributes><additional_attributes>100;10;100;240;10;240</additional_attributes></element><element><id>Relation</id><coordinates><x>144</x><y>240</y><w>352</w><h>192</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;&lt;-
+m1=1
+m2=1</panel_attributes><additional_attributes>10;10;10;210;420;210</additional_attributes></element></diagram>
